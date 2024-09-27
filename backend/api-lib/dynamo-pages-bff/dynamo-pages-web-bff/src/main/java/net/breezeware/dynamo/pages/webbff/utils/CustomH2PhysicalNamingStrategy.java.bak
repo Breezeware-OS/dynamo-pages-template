@@ -1,0 +1,37 @@
+package net.breezeware.dynamo.pages.webbff.utils;
+
+import org.hibernate.boot.model.naming.Identifier;
+import org.hibernate.boot.model.naming.PhysicalNamingStrategy;
+import org.hibernate.engine.jdbc.env.spi.JdbcEnvironment;
+
+public class CustomH2PhysicalNamingStrategy implements PhysicalNamingStrategy {
+
+    @Override
+    public Identifier toPhysicalCatalogName(Identifier name, JdbcEnvironment context) {
+        return name;
+    }
+
+    @Override
+    public Identifier toPhysicalSchemaName(Identifier name, JdbcEnvironment context) {
+        return name;
+    }
+
+    @Override
+    public Identifier toPhysicalTableName(Identifier name, JdbcEnvironment context) {
+        if ("user".equals(name.getText()) || "group".equals(name.getText()) || "role".equals(name.getText())) {
+            return Identifier.toIdentifier("\"" + name.getText() + "\"");
+        }
+
+        return name;
+    }
+
+    @Override
+    public Identifier toPhysicalSequenceName(Identifier name, JdbcEnvironment context) {
+        return name;
+    }
+
+    @Override
+    public Identifier toPhysicalColumnName(Identifier name, JdbcEnvironment context) {
+        return Identifier.toIdentifier(name.getText().toLowerCase());
+    }
+}
