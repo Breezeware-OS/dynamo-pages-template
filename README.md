@@ -28,8 +28,8 @@
 </div>
 
 <p align="center">
-<a href="https://www.linkedin.com/company/breezeware/" target="_blank"><img src="https://github.com/user-attachments/assets/65896632-8737-4e77-a9f4-5c2bef7d1850" height="36px" margin-left="20px" alt="" title=""></a>
-<a href="https://youtu.be/Gi6kUB-gNXE" target="_blank"><img src="https://github.com/user-attachments/assets/0c37fb4c-ebb0-40cc-8b57-a8247a66fcda" height="36px" margin-left="20px" alt="" title=""></a>
+<a href="https://www.linkedin.com/company/breezeware/" target="_blank"><img src="https://github.com/user-attachments/assets/eba2ef57-1d5e-4138-8ff2-c70234be0cb6" height="36px" margin-left="20px" alt="" title=""></a>
+<a href="https://youtu.be/Gi6kUB-gNXE" target="_blank"><img src="https://github.com/user-attachments/assets/b50facda-da49-4027-87f3-af6fd5fa13b7" height="36px" margin-left="20px" alt="" title=""></a>
 </p>
 
 <br/>
