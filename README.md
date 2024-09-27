@@ -20,10 +20,6 @@
     <a href="https://youtu.be/Gi6kUB-gNXE" target="_blank">
       Live Demo
     </a>
-    <span> | </span>
-    <a href="https://propel.dynamo-cloud.com/" target="_blank">
-      Documentation
-    </a>
   </h3>
 </div>
 
