@@ -1,8 +1,66 @@
-# Dynamo Pages Template Setup Guide
+<h1 align="center"> <a href="https://github.com/Breezeware-OS/"><img src="https://github.com/user-attachments/assets/07f2efc7-111f-4dee-b775-98fa8743e2c6" alt="Dynamo" width="400" align="center"></a>
+</h1>
 
-## Overview
+<h4 align="center">A powerful platform designed to supercharge business app development and streamline internal tool creation. Manage, organize, and innovate—all in one place</h4>
 
-This guide walks through setting up your Dynamo Pages app using Docker Compose and manually building the application. It also covers how to set up authentication using Keycloak.
+<div align="center">
+    <a href="http://www.apache.org/licenses/LICENSE-2.0"><img alt="Apache Licenses 2.0" src="https://img.shields.io/static/v1?label=Apache Licenses&message=2.0&color=18B2C6"/></a>
+    <a href="https://breezeware.net/"><img alt="Dynamo: 1.0.0" src="https://img.shields.io/static/v1?label=Dynamo&message=1.0.0&color=18B2C6"/></a>
+    <a href="https://www.java.com/en/">  <img  alt="Java: 17.0.2" src="https://img.shields.io/static/v1?label=Java&message=17.0.0&color=18B2C6"/></a>
+   <a href="https://spring.io/projects/spring-boot" >  <img alt="Spring Boot: 3.0.5" src="https://img.shields.io/static/v1?label=Spring%20Boot&message=3.2.5&color=18B2C6"/></a>
+    <a href="https://react.dev/" > <img alt="ReactJS" src="https://img.shields.io/static/v1?label=ReactJS&message=17&color=18B2C6"/></a>
+</div>
+
+<div align="center">
+  <h3>
+    <a href="https://breezeware.net/" target="_blank">
+      Website
+    </a>
+    <span> | </span>
+    <a href="https://youtu.be/Gi6kUB-gNXE" target="_blank">
+      Live Demo
+    </a>
+    <span> | </span>
+    <a href="https://propel.dynamo-cloud.com/" target="_blank">
+      Documentation
+    </a>
+  </h3>
+</div>
+
+<p align="center">
+<a href="https://www.linkedin.com/company/breezeware/" target="_blank"><img src="https://github.com/user-attachments/assets/65896632-8737-4e77-a9f4-5c2bef7d1850" height="36px" margin-left="20px" alt="" title=""></a>
+<a href="https://youtu.be/Gi6kUB-gNXE" target="_blank"><img src="https://github.com/user-attachments/assets/0c37fb4c-ebb0-40cc-8b57-a8247a66fcda" height="36px" margin-left="20px" alt="" title=""></a>
+</p>
+
+<br/>
+
+* **Accelerate development and reduce effort**. Leverage industry-specific templates, pre-built modules, and out-of-the-box features.
+* **Ensure flexibility and scalability**. Build applications with dynamic entities and choose from multiple multi-tenancy models.
+* **Utilize familiar technologies**: Java, Spring Boot, JavaScript, HTML, ReactJS, SpringAI, BPMN, Hibernate, PostgreSQL.
+* **Expand at will**. Dynamo provides unlimited customization and seamless integration options.
+
+<br/>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+
+<br/>
+
+
+### 📌Contents
+
+🚀 [How to start](#-getting-started)\
+💡 [Application screenshots](#application-screenshots)\
+📜 [Release notes](#️-release-notes)\
+🤝 [Support](#support)
+
+<br/>
+
+## 🚀 Getting started
+
+### Overview
+
+This guide walks through setting up your Dynamo Pages app using Docker Compose. It also covers how to set up authentication using Keycloak.
 
 
 
@@ -134,25 +192,42 @@ This completes the setup for the Dynamo Pages Template. If further issues arise,
 
 ## Application Screenshots
 
- ![](/api/attachments.redirect?id=7791dfeb-5a7d-4f33-b5b6-a84345aadc49)
-
- ![](/api/attachments.redirect?id=1f169fd1-8dcc-44ff-9475-a6030156b52b)
+![Screenshot from 2024-09-26 17-17-22](https://github.com/user-attachments/assets/f2893ed7-b4e6-42e3-9404-c96db1c159b1)
 
 
- ![](/api/attachments.redirect?id=a3842228-a413-499d-896e-33c38f1ba067)
 
- ![](/api/attachments.redirect?id=1e6b6f98-d8ae-4ea8-8096-20a93186d3d9)
-
- ![](/api/attachments.redirect?id=5d71255e-e4be-4c09-b2e2-28d581592172)
+![Screenshot from 2024-09-26 17-20-31](https://github.com/user-attachments/assets/b834c53b-7b63-4c54-bfdc-8e2bd22befe7)
 
 
-\
 
-\
-
- ![](/api/attachments.redirect?id=29aa5de7-6573-46d9-b8b3-6debece4617d)
+![Screenshot from 2024-09-26 17-18-22](https://github.com/user-attachments/assets/ec91aeed-70c1-449c-9ce4-864e2b320720)
 
 
+
+![Screenshot from 2024-09-26 17-18-49](https://github.com/user-attachments/assets/d3176db7-3f57-460c-9d97-d4815bd7b25d)
+
+
+
+![Screenshot from 2024-09-26 17-19-35](https://github.com/user-attachments/assets/00776d35-fcc5-49dc-a047-3b12bbe60eea)
+
+
+
+![Screenshot from 2024-09-26 17-18-22](https://github.com/user-attachments/assets/16c7dfc2-b246-48eb-9b8c-71ce2438dae7)
+
+
+## 🗃️ Release notes
+
+Dynamo is constantly evolving. Check out the changelog:
+
+### Dynamo 1.0.0. 🚀
+
+* Support for pages templates
+* Fix issues and bugs
+  
 ## Support
 
 For any **business inquiries**, **technical support**, or to report issues, please contact support@breezeware.net.
+
+
+**Love Dynamo? Give our repo a star :star: :arrow_up:.**
+
