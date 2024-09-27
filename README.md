@@ -1,8 +1,7 @@
-<h1 align="center"> <a href="https://www.jmix.io/"><img src="https://github.com/user-attachments/assets/0b15a9b2-3814-479e-99e8-9d8320692c4b" alt="Jmix" width="400" align="center"></a>
+<h1 align="center"> <a href="https://github.com/Breezeware-OS/"><img src="https://github.com/user-attachments/assets/07f2efc7-111f-4dee-b775-98fa8743e2c6" alt="Dynamo" width="400" align="center"></a>
 </h1>
 
 <h4 align="center">A powerful platform designed to supercharge business app development and streamline internal tool creation. Manage, organize, and innovate—all in one place</h4>
-
 
 <div align="center">
     <a href="http://www.apache.org/licenses/LICENSE-2.0"><img alt="Apache Licenses 2.0" src="https://img.shields.io/static/v1?label=Apache Licenses&message=2.0&color=18B2C6"/></a>
