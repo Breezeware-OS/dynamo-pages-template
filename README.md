@@ -192,22 +192,28 @@ This completes the setup for the Dynamo Pages Template. If further issues arise,
 
 ## Application Screenshots
 
-![Screenshot from 2024-09-26 17-17-22](https://github.com/user-attachments/assets/b6590fa7-5b3d-44d4-ae3a-99877f805f22)
+![Screenshot from 2024-09-26 17-17-22](https://github.com/user-attachments/assets/f2893ed7-b4e6-42e3-9404-c96db1c159b1)
 
 
-![Screenshot from 2024-09-26 17-20-31](https://github.com/user-attachments/assets/c56704a1-e615-4201-99c3-7017f01806da)
+
+![Screenshot from 2024-09-26 17-20-31](https://github.com/user-attachments/assets/b834c53b-7b63-4c54-bfdc-8e2bd22befe7)
 
 
-![Screenshot from 2024-09-26 17-18-22](https://github.com/user-attachments/assets/51725470-250d-4ef4-87cf-58582ad19ec4)
+
+![Screenshot from 2024-09-26 17-18-22](https://github.com/user-attachments/assets/ec91aeed-70c1-449c-9ce4-864e2b320720)
 
 
-![Screenshot from 2024-09-26 17-18-49](https://github.com/user-attachments/assets/31fa963d-96ac-4af7-bea1-e6becf0ecfb3)
+
+![Screenshot from 2024-09-26 17-18-49](https://github.com/user-attachments/assets/d3176db7-3f57-460c-9d97-d4815bd7b25d)
 
 
-![Screenshot from 2024-09-26 17-19-35](https://github.com/user-attachments/assets/25b4047e-5393-4a49-9f4e-b618bb994ea1)
+
+![Screenshot from 2024-09-26 17-19-35](https://github.com/user-attachments/assets/00776d35-fcc5-49dc-a047-3b12bbe60eea)
 
 
-![Screenshot from 2024-09-26 17-21-13](https://github.com/user-attachments/assets/469686f6-fc73-4192-a111-3a58aee204d2)
+
+![Screenshot from 2024-09-26 17-18-22](https://github.com/user-attachments/assets/16c7dfc2-b246-48eb-9b8c-71ce2438dae7)
+
 
 ## 🗃️ Release notes
 
